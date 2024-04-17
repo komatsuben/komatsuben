@@ -51,6 +51,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.kym-cdn.com/entries/icons/original/000/047/210/nah_id_win.jpg"  />
+<img align="center" height="150" src="https://i.kym-cdn.com/entries/icons/original/000/047/210/nah_id_win.jpg"  />
 
 ###

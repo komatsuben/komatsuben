@@ -1,4 +1,4 @@
-<h2 align="left">I'm Benedict Halim, a student from Kolese Kanisius</h2>
+<h2 align="left">Hello, I am Benedict Halim</h2>
 
 ###
 

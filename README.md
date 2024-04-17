@@ -10,11 +10,9 @@
 
 ###
 
-<h2 align="left">My Stack</h2>
+<h2 align="left">My Tech Stack</h2>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />

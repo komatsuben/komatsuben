@@ -3,19 +3,20 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Benedict02&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Benedict02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Benedict02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Benedict02&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<h3 align="left">I am Learning:</h3>
+<h2 align="left">My Stack</h2>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -26,6 +27,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
+
+###
+
+<h2 align="left">Contact me</h2>
 
 ###
 
@@ -40,12 +45,12 @@
 
 ###
 
-<img align="right" height="150" src="https://i.kym-cdn.com/entries/icons/original/000/047/210/nah_id_win.jpg"  />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Benedict02/count.svg?"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://i.kym-cdn.com/entries/icons/original/000/047/210/nah_id_win.jpg"  />
 
 ###

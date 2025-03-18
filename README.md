@@ -4,15 +4,15 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Benedict02.Benedict02&left_color=royalblue&right_color=royalblue"  />
-</div>
-
-###
-
 <h4 align="center">
 「 問題に立ち向かう忍耐力」
 </h4>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Benedict02.Benedict02&left_color=royalblue&right_color=royalblue"  />
+</div>
 
 ###
 

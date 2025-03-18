@@ -10,9 +10,9 @@
 
 ###
 
-<h1 align="center">
+<h4 align="center">
 「 問題に立ち向かう忍耐力」
-</h1>
+</h4>
 
 ###
 

@@ -10,6 +10,12 @@
 
 ###
 
+<div style="text-align: center;">
+「 問題に立ち向かう忍耐力」
+</div>
+
+###
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 

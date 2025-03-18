@@ -10,9 +10,9 @@
 
 ###
 
-<p style="text-align: center;">
+<h1 align="center">
 「 問題に立ち向かう忍耐力」
-</p>
+</h1>
 
 ###
 
